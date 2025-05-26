@@ -1,8 +1,5 @@
-<div align="center">
-  <img src="https://media.tenor.com/8H4k0vEeQZ0AAAAC/meditation-art.gif" width="100%" alt="Mindful Building">
-</div>
 
-# 🧘♂️ Anmol ZenQuill  
+# 🧘 Anmol ZenQuill  
 **Content Creator, Startup Founder & AI Enthusiast building the future of automation in India. Following the Unconventional Blueprint to success!**
 
 ## 🌱 Current Focus  
@@ -22,4 +19,4 @@
 
 ## 📬 Let's Connect  
 [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin" height=25>](https://www.linkedin.com/in/anmolzenquill/)
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter" height=25>](your-twitter-url)
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter" height=25>](www.x.com/quillzen)
